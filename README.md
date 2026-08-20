@@ -44,3 +44,6 @@ A Python-based desktop application that scans and monitors nearby Wi-Fi networks
 
 ```bash
 python wifi_monitor.py
+
+
+## Screenshots
